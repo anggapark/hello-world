@@ -1,5 +1,6 @@
 # hello-world
 This is my github repo to store my future project
+</br>
 
 - git init - Initialize local a new repository
 - git status -shows what you have in you staging area
