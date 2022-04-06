@@ -1,7 +1,7 @@
 # hello-world
-This is my github repo to store my future project
-</br>
+This is my github repo to store my future project </br>
 
+</br>
 - git init - Initialize local a new repository
 - git status -shows what you have in you staging area
 - git add <file> -  adds files and folders to the staging area
@@ -13,11 +13,10 @@ This is my github repo to store my future project
 - git pull - Pull latest changes from remote repository
 - git clone - Clone repo from github
 
-  
+ 
  Step: </br>
 - Create Remote Repository on Github.com
 - Create Local Repository: </br>
-
   - Initialize new git repo | git init
   - Check staging area | git status
   - Add files | git add .
