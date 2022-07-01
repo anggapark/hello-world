@@ -21,5 +21,5 @@ This is my github repo to store my future project </br>
   - Check staging area      | git status
   - Add files               | git add .
   - Commit Changes          | git commit -m “Custom message”
-  - Set remote              | git remote add origin '<remote url>'
+  - Set remote              | git remote add origin (remote url)
   - Push to remote          | git push -u origin <branch name> (check personal access token first before push) </br>
