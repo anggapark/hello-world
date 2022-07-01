@@ -18,8 +18,8 @@ This is my github repo to store my future project </br>
 - Create Remote Repository on Github.com
 - Create Local Repository: </br>
   - Initialize new git repo | git init
-  - Check staging area | git status
-  - Add files | git add .
-  - Commit Changes | git commit -m “Custom message”
-  - Set remote | git remote <remote url>
-  - Push to remote | git push -u origin <branch name> (check personal access token first before push) </br>
+  - Check staging area      | git status
+  - Add files               | git add .
+  - Commit Changes          | git commit -m “Custom message”
+  - Set remote              | git remote add origin <remote url>
+  - Push to remote          | git push -u origin <branch name> (check personal access token first before push) </br>
